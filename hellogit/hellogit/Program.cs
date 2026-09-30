@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Cute, gagana kaya?");
+            Console.WriteLine("Hello, Cute, gagana kaya? gumana nga hahahahah");
         }
     }
 }
